@@ -1,5 +1,8 @@
 # This is an example for branching!
 
+def printme():
+    print('A message')
+
 def main():
 
     print("Y'all gon' learn today!")
